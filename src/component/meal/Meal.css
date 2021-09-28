@@ -1,0 +1,10 @@
+.image img{
+    width: 200px;
+}
+.foodCart{
+    border: 1px solid rgb(250, 235, 187);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
